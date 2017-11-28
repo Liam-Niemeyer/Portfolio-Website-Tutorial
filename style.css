@@ -1,0 +1,248 @@
+header {
+		width:100%;
+		background:black;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin: auto;
+		
+}
+
+h1 {
+		font-family:'Montserrat', sans-serif;
+		text-align: center;
+		color: white;
+		font-size: 45px;
+}
+
+body {
+	width: 100%;
+	background: white;
+	margin: auto;
+}
+
+/* Navigation Menu */
+
+nav {
+	background: white;
+	width: 100%;
+	text-align: center;
+	margin: auto;
+}
+
+.navmenu {
+		display: inline;
+}
+
+.navmenu a {
+		text-decoration:none;
+		font-family:'Montserrat', sans-serif;
+		font-weight: bold;
+		font-size: 25px;
+		margin: 25px;
+		color: black;
+		background: white;
+		padding-right: 20px;
+		-webkit-transition: color 0.3s ease-out;
+		-moz-transition: color 0.3s ease-out;
+		-ms-transition: color 0.3s ease-out;
+		-o-transition: color 0.3s ease-out;
+		transition: color 0.3s ease-out;
+}
+
+.navmenu a:hover {
+		color: #8c8c8c;
+		font-size: 25px;
+}
+
+/* HOMEPAGE STYLEING */
+
+#indexpage {
+		width:80%;
+		height: auto;
+		margin-left:10%;
+		margin-right:10%;
+		padding-bottom:2.5%;
+		border-bottom: .5em solid;
+}
+
+/*Homepage Twitter Plug-in */
+
+#twitter {
+		width: 30%;
+		background: white;
+		margin-left: 5%;
+		margin-top: 2.5%;
+		font-family:'Montserrat', sans-serif;
+		text-align: center;
+		padding-right: 10%;	
+		position: relative;
+}
+
+/*Introduction Styling*/
+#aboutme {
+		font-family:'Montserrat', sans-serif;
+		width: 45%;
+		height: auto;
+		float: right;
+		margin-right: 5%;
+		margin-top: 0%;
+		margin-left: 5%;
+		
+		
+}
+#aboutme h2 {
+		padding-right: 5%;
+		position: relative;
+		text-align: center;
+}
+#aboutme img {
+		width: 80%;
+		height: auto;
+		position: relative
+		border-style: solid;
+		border-width: 5px;
+		border-color: #8c8c8c; 
+		margin-left: 7.5%;
+}
+#aboutme p {
+		font-family: 'Raleway', sans-serif;
+		font-size: 18px;
+		padding-left: 5%;
+}
+
+/* BLOG PAGE STYLING */
+
+.blogheader {
+		margin-top: 5%;
+		margin-left: 5%;
+		margin-right: 5%;
+}
+.blogheader p {
+		font-family: 'Raleway', sans-serif;
+		font-size: 18px;
+		text-align: left;
+		text-indent: 2%;
+}
+.blogimage {
+		width: 90%;
+		height: auto;
+}
+.blogheader h4 {
+		font-family: 'Raleway', sans-serif;
+}
+.blogheader a {
+		text-decoration: none;
+		color: black;
+		font-weight: bold;
+}
+
+/* WORK/RESUME PAGE STYLING */
+
+#work {
+		height: auto;
+		width: 80%;
+		font-family: 'Raleway', sans-serif;
+		text-align: center;
+		margin-left: 12.5%;
+		margin-top: 2.5%;
+		
+}
+#work table {
+		width: 100%;
+		border: none;
+		text-align: center;
+		border-spacing: 1em;
+}
+
+#work td {
+		-webkit-transition: color 0.3s ease-out;
+		-moz-transition: color 0.3s ease-out;
+		-ms-transition: color 0.3s ease-out;
+		-o-transition: color 0.3s ease-out;
+		transition: color 0.3s ease-out;
+		width: 33.3%;
+		
+}
+#work td:hover {
+		background-color:#f5f5f5;
+		
+}
+#work a {
+		text-decoration: none;
+		color: black;
+}
+#work img {
+		width: 100%;
+		height: 35%;
+}
+
+#resume {
+		height: auto;
+		width: 80%;
+		font-family:'Montserrat', sans-serif;
+		text-align: center;
+		margin-left: 12.5%;
+}
+
+/*CONNECT PAGE STYLING*/
+
+#connectpage {
+		height: auto;
+		width: 80%;
+		font-family: 'Raleway', sans-serif;
+		text-align: center;
+		margin-left: 12.5%;
+		margin-top: 2.5%;
+}
+
+#connectpage img {
+		margin: 2%;
+}
+
+#links {
+		height: auto;
+		width: 80%;
+		font-family: 'Raleway', sans-serif;
+		text-align: center;
+		margin-left: 12.5%;
+}
+
+#links h2 {
+		font-family:'Montserrat', sans-serif;
+}
+
+
+		
+		
+
+/*Standard Footer Styling*/
+.footer {
+		width: 100%;
+		height: 10%;
+		border-style: none;
+		float: bottom;
+		padding-top: 5%;
+		padding-bottom: 5%;
+		padding-right: 5%;
+		margin: auto;
+		position: relative;
+}
+.footer img {
+		width: 4%;
+		height: auto;
+		float: right;
+		padding-right: 2%;
+		padding-top: 1%;
+}
+.footer h2 {
+		float: right;
+		font-family:'Montserrat', sans-serif;
+		padding-right: 2%;
+		margin-bottom: 2%;
+		
+}
+		
+
+		
+
+		
